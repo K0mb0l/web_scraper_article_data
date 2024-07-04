@@ -12,16 +12,16 @@ import os
 import re
 
 # Anmeldedaten und URLs
-username = 'info@caipi.de'
-password = 'tca.vxn7ztr8ypr6PAX'
+username = ''
+password = ''
 login_url = 'https://www.nebelung.de/account/login'
 shop_url = 'https://www.nebelung.de/shop/'
 base_url = 'https://www.nebelung.de'
 
 # Email-Konfiguration
-email_user = 'webscrapertestnebelungen@gmail.com'
-email_password = 'orxa gayk uurh cdkk'
-email_send_to = 'steglichmaximilian@gmail.com'
+email_user = ''
+email_password = ''
+email_send_to = ''
 email_subject = 'Nebelung Artikel Update'
 smtp_server = 'smtp.gmail.com'
 smtp_port = 465  # Using SSL port
